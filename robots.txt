@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://quuquohja.e-madrasa.com/sitemap.xml
